@@ -2,4 +2,4 @@
 
 就只是個 Firebase 沙坑 w
 
-Just a firebase playground
+Firebase Playground (hosting, cloud messaging)
