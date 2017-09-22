@@ -13,7 +13,7 @@ I can't understand to use, if just read [this guide](https://firebase.google.com
 
 More details in [samples](https://github.com/firebase/quickstart-js/tree/master/messaging)
 
-## How to run the sample
+## Run
 
 - Install firebase-tools
 
